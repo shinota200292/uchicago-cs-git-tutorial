@@ -1,2 +1,2 @@
 # uchicago-cs-git-tutorial
-Shin Ota
+Shin Ota - shinota
